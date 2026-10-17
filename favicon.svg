@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <style>
+    .h { fill: none; stroke: #1e5a78; stroke-width: 5.5; stroke-linejoin: round; }
+    @media (prefers-color-scheme: dark) { .h { stroke: #8890ff; } }
+  </style>
+  <polygon class="h" points="32.00,4.00 18.14,12.00 18.14,28.00 32.00,36.00 45.86,28.00 45.86,12.00"/>
+  <polygon class="h" points="18.14,28.00 4.29,36.00 4.29,52.00 18.14,60.00 32.00,52.00 32.00,36.00"/>
+  <polygon class="h" points="45.86,28.00 32.00,36.00 32.00,52.00 45.86,60.00 59.71,52.00 59.71,36.00"/>
+</svg>
